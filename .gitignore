@@ -1,0 +1,26 @@
+myenv/
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# dotenv environment variables file
+.env
+
+# macOS specific files
+.DS_Store
+
+# IDE specific files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
